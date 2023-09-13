@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Andrey</a></h1>
-<h3 align="center">Student of Innopolis University, Python developer from Russia</h3>
+<h3 align="center">Student of Innopolis University, Web developer from Russia</h3>
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=DeHopen&style=flat-square&color=blue" alt=""/>
 </div>
